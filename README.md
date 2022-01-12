@@ -1,1 +1,1 @@
-# pracDailylunch6
+# 카테고리 순서대로 찍기 추가
